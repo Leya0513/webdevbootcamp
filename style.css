@@ -1,24 +1,33 @@
 .home{
-    background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV_fE-NPwxi4p8mDFRMh3Onz-a5xfUmU3pUeQFTIyIfV_nDUqol5z58p_09q1q6mpG0k8&usqp=CAU);
-    
-    
+    background-image:url("https://wallpaperaccess.com/full/516089.png");
+    height: 700px;
+    text-align: center;
+    color:white;
+    padding-top: 250px;
 }
 
-.home_txt{
-    font-size: 60px;
-    text-align: center;
-    text-size-adjust:15px;
-    padding-top:500PX;
-    padding-left:auto ;
-    colour:white;
+.home h1 {
+    font-size: 75px;
 }
-.about h2
+
+.home p {
+    font-size: 25px;
+}
+
+.about{
+    padding-top: 60px;
+    padding-bottom: 60px;
      text-align:center ;
-     
-     font-size: 30px;
-     padding :left;
+     /* font-size: 30px; */
      color: black;
 }
-{
 
+.gallery h2{
+     text-align:center;
+     /* font-size: 30px; */
+     color: black;
+}
+
+.contact_ipt input,textarea,button{
+    margin: 20px;
 }
